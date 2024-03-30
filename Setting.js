@@ -67,7 +67,7 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
 global.sudo  =  process.env.SUDO || "923466319114" ;          // DON'T REMOVE
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
-global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
+global.gurl  = 'https://www.youtube.com/@mhmodsofc?sub_confirmation=1' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
 //=================================================================================
 
@@ -113,7 +113,7 @@ module.exports = {
   BRANCH: process.env.BRANCH   || 'Main',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
-  caption :process.env.CAPTION || "*• ѕιgмα-м∂ мυℓтι-∂єνι¢є*\n*• ωнαтѕαρρ вσт* ",
+  caption :process.env.CAPTION || "*CH HASEEB*\n*• ωнαтѕαρρ вσт* ",
   LANG: process.env.THEME || "SIGMA_MD",
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟻.𝟹'
   //=================================================================================
